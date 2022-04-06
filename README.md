@@ -9,31 +9,10 @@ Visual Studio Code comes with a markdown preview utility - you can use it to pre
 The content repository utilizes two branches ``develop`` and ``master``. All new and updated content is introduced by pull requests from feature branches to ``develop`` branch. Master branch will be used for production-ready content.
 
 - Workflow for contributor:
-  - Create feature branch
-  - Update content on feature branch
-  - Push changes to remote feature branch
-  - Create pull request to ``develop`` branch in Bitbucket web UI
+  - Introduce changes in the file
+  - Create a pull request to ``develop`` branch
 - Workflow for maintainer
   - Review pull requests
   - Create pull requests from ``develop`` to ``master`` when it's time for release
 
-*All content in develop is automatically updated to https://onboarding-dev.mediusflow.com*
-
-## Frontmatter
-
-Frontmatter is used as metadata for the files you are creating. The following fields are available for using in frontmatter:
-
-* **path**, e.g. ``"/capture/company-setup/setup-company-structure"`` - path to the page. The page will be available under the path specified here. Note that page path will never be generated automatically. This means the location of the file you are writing will not be taken into account when determining the path to the page.
-* **title**, e.g. ``"Set up capture"`` - Title of the page (appears in the browser's title bar)
-* **section**, e.g. ``"Company"`` - name of the section. Currently unused.
-* **module**, e.g. ``"Capture"`` - name of the module in which the page should appear. Currently, the following modules are available: "MediusFlow", "Capture", "User Import", "ERP Integration".
-* **next**, e.g. ``"/import/company-setup/setup-company-responsibles"`` - path to the next page in the documents structure. This field is used to construct and properly order the menu. To add page2 between page1 and page3, you must open page1, set ``next`` to the path specified on page2, and ensure page2 points to page3. A page is omitted from the entire structure if no other page has it specified in the ``next`` field. The last page in the structure should have no ``next`` field at all.
-* **tags**, e.g. ``["nav"]`` - table of tags used for filtering the menu. If you specify any tags in this field, the page will be displayed in the menu only if the user checked the matching box on the configuration page.
-
-The following tags are available:
-* **general tags:** "tenantCreated"
-* **application tags:** "invoice", "match", "procurement", "contract", "document_approval"
-* **ERP tags:** "sap", "nav", "business_central", "d365fiop", "ax2012", "api_rest", "api_fx", "erp_other"
-* **Capture tags:** "mediusflow_capture", "readsoft_online", "scancloud", "local_edi_xml_import", "capture_other"
-
-
+*All content in develop is automatically updated to https://onboarding-new.mediusflow.com*
