@@ -1,0 +1,1 @@
+Prepare workshop material based on the existing set up.

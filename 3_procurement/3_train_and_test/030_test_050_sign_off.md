@@ -1,0 +1,1 @@
+When all testing has completed and the QA environment has reached the agreed acceptance criteria, an official sign of for the QA configuration is needed. The sign of is an important milestone in the delivery process and an indication for the commencement of the production environment configuration. 

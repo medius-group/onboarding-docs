@@ -1,0 +1,1 @@
+Sample data that was provided for the preparation of test environment should be loaded prior to configurations. Reason being is that some configurations may rely on the sample data (for example document validation rules).

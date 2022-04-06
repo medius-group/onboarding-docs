@@ -1,0 +1,1 @@
+When a new production environment is ordered and not pre-exisiting, the QA configurations will be copied over. If the Prod environment exists already (for example if Medius APA was delivered beforehand) all configurations need to be migrated manually.
