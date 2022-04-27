@@ -13,3 +13,5 @@ The final step of the integration is a checklist to ensure that all step have be
 2. Verify that there are no import errors in the import queue, go [here](https://cloud.mediusflow.com/$TenantNameQA/#/configuration/ImportManagement) to check.
 3. Verify one posting end to end for the relevant flows
 4. Done! You have successfully built the integrations between Medius AP Automation and the ERP system.
+
+Do a test update
