@@ -1,11 +1,3 @@
----
-path: "/mediusflow/company-setup/posting-and-financial-related"
-title: "Posting and financial related settings"
-section: "Company setup and config"
-module: "AP Automation"
-next: "/mediusflow/erp-related/1_1_company_structure_sap"
-tags: ["api_fx","api_rest","erp_other"]
----
 ## Dimensions
 
 The coding dimensions in Medius AP Automation should reflect the financial Dimensions set up in your ERP. Once it has been determined what dimensions to make use of in Medius, go to **Administration > Company > [Virtual Company for ERP] > Enterprise > Dimensions**.

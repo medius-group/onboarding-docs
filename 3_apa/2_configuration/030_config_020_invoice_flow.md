@@ -1,11 +1,3 @@
----
-path: "/mediusflow/application-related/2_expense_flow_configuration"
-title: "Expense invoice application settings"
-section: "Application settings"
-module: "AP Automation"
-next: "/mediusflow/application-related/3_match_flow_configuration"
-tags: ["invoice"]
----
 This section covers the expense invoice application settings that needs to be configured based upon your organisation's structure and processes. 
 We recommend that this is done in cooperation with your implementation partner that can guide you through this process.
 

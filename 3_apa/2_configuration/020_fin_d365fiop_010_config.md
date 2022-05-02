@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/3_2_posting_and_financial_related_d365fiop"
-title: "Posting and financial related settings"
-section: "D365 Fi&Op related settings"
-module: "AP Automation"
-next: "/mediusflow/erp-related/4_1_company_structure_nav"
-tags: ["d365fiop"]
----
 ## Dimensions
 
 The coding dimensions in Medius should reflect the G/L and dimension setup you are using in D35FO. In Medius, the order of dimensions is determined by the number of the dimensions used.

@@ -1,12 +1,3 @@
----
-path: "/mediusflow/erp-related/1_2_posting_and_financial_related_sap"
-title: "Posting and financial related settings"
-section: "SAP related settings"
-module: "AP Automation"
-next: "/mediusflow/erp-related/2_1_company_structure_ax"
-tags: ["sap"]
----
-
 ### Enable Dimensions
 Administration→ Company→ Enterprise → Dimensions
 

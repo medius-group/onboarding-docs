@@ -1,11 +1,3 @@
----
-path: "/mediusflow/application-related/5_contract_flow_configuration"
-title: "Recurring Invoice functionality workflow settings"
-section: "Application settings"
-module: "AP Automation"
-next: "/userimport/user-auth-introduction"
-tags: ["contract"]
----
 This section covers the Recurring invoice application settings that need to be configured based upon your organization's structure and processes. 
 We recommend that this is done in cooperation with your implementation partner that can guide you through this process.
 

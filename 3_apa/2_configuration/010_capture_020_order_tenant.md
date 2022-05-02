@@ -1,11 +1,3 @@
----
-path: "/capture/medius_capture_1_createtenant"
-title: "Create MediusFlow capture instance"
-section: "Company"
-module: "Medius Capture"
-next: "/userimport/user-auth-introduction"
-tags: ["mediusflow_capture"]
----
 Medius Capture is the built in capture service for Medius that needs to be separately activated. This is currently executed by Medius Capture team based upon the request of your implementation partner. 
 
 ## Prerequisites

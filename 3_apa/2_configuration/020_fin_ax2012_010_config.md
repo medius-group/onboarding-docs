@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/2_2_posting_and_financial_related_ax"
-title: "Posting and financial related settings"
-section: "AX related settings"
-module: "AP Automation"
-next: "/mediusflow/erp-related/3_1_company_structure_d365fiop"
-tags: ["ax2012"]
----
 ## Dimensions
 
 The coding dimensions in Medius should reflect the G/L and dimension setup you are using in AX. In Medius, the order of dimensions is determined by the number of the dimensions used.

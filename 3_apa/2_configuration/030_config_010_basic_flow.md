@@ -1,11 +1,3 @@
----
-path: "/mediusflow/application-related/1_basic_flow_configuration"
-title: "Basic workflow settings"
-section: "Application settings"
-module: "AP Automation"
-next: "/mediusflow/application-related/2_expense_flow_configuration"
-tags: []
----
 This section covers general settings that need to be configured based upon your organization's structure and processes. 
 We recommend that this is done in cooperation with your implementation partner who can guide you through this process.
 

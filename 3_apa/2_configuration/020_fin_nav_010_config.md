@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/4_2_posting_and_financial_related_nav"
-title: "Posting and financial related settings"
-section: "NAV related settings"
-module: "AP Automation"
-next: "/mediusflow/erp-related/5_1_company_structure_d365bc"
-tags: ["nav"]
----
 ## Tax settings
 ### Activate two tax indicators
 
