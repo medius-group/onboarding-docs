@@ -1,11 +1,3 @@
----
-path: "/erp/5_nav/0_mig_server"
-title: "Server for MIG deployment"
-section: "NAV"
-module: "ERP Integration"
-next: "/erp/5_nav/1_deploy_connector"
-tags: ["nav"]
----
 Medius NAV integration is built upon Medius' integration platform Medius Integration Gateway(MIG). This product needs to be deployed to your network with acessibility to your NAV system.
 More information can be found here [Medius Success Portal NAV Intro](https://success.mediusflow.com/documentation/cts-documentation/NAV/NAV_introduction/)
 

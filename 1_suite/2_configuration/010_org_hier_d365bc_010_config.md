@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/5_1_company_structure_d365bc"
-title: "Setting up D365BC company structure"
-section: "Company setup and config"
-module: "AP Automation"
-next: "/mediusflow/erp-related/5_2_posting_and_financial_related_d365bc"
-tags: ["d365bc"]
----
 The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure

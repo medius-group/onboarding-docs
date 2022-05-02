@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/3_1_company_structure_d365fiop"
-title: "Setting up D365Fi&Op company structure"
-section: "Company setup and config"
-module: "AP Automation"
-next: "/mediusflow/erp-related/3_2_posting_and_financial_related_d365fiop"
-tags: ["d365fiop"]
----
 The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 It's important to setup a good company structure that reflects not only your legal entities but also reflects how the legal entities are organized.
 Best practise guidelines for establishing the company structure is found on the Medius Success Portal here: [Company structure design guidelines](https://success.mediusflow.com/documentation/administration_guide/administration_pages/configuration_tutorials/company_structure/)

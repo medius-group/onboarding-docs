@@ -1,12 +1,3 @@
----
-path: "/erp/3_d365fiop/5_finalization"
-title: "Finalize D365FO connector setup"
-section: "D365 Fi&Op"
-module: "ERP Integration"
-next: "/erp/4_d365bc/0_technical_requirements"
-tags: ["d365fiop"]
----
-
 ## Finalization checklist
 The final step of the integration configuration is a checklist to ensure that all step have been performed.
 

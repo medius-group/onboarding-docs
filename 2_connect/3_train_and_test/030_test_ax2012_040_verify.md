@@ -1,12 +1,3 @@
----
-path: "/erp/2_ax2012/5_finalization"
-title: "Finalizing AX connector setup"
-section: "AX2012"
-module: "ERP Integration"
-next: "/erp/3_d365fiop/0_technical_requirements"
-tags: ["ax2012"]
----
-
 ## Finalization checklist
 The final step of the integration configuration is a checklist to ensure that all step have been performed.
 

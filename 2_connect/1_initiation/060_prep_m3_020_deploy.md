@@ -1,12 +1,3 @@
----
-path: "/erp/6_m3/1_deploy_connector"
-title: "Deploy M3 integration interface"
-section: "M3"
-module: "ERP Integration"
-next: "/erp/6_m3/2_deploy_mig"
-tags: ["m3"]
----
-
 The interface is described here:
 
 [M3 Product Definition](https://success.mediusflow.com/documentation/cts-documentation/On-Premise-Connectors/M3/M3_product/)

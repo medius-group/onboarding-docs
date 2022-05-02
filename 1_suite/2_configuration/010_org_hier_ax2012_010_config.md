@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/2_1_company_structure_ax"
-title: "Setting up AX company structure"
-section: "Company setup and config"
-module: "AP Automation"
-next: "/mediusflow/erp-related/2_2_posting_and_financial_related_ax"
-tags: ["ax2012"]
----
 The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to MediusFlow should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure

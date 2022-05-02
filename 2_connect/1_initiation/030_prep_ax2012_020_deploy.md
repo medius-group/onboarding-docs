@@ -1,11 +1,3 @@
----
-path: "/erp/2_ax2012/1_deploy_connector"
-title: "Deploy Connector in AX"
-section: "AX2012"
-module: "ERP Integration"
-next: "/erp/2_ax2012/1b_hcm_installation"
-tags: ["ax2012"]
----
 ## Deployment of AX model and information needed for communication ##
 For integration with Dynamics AX, Medius needs some objects to be installed in the ERP. The objects are stand-alone objects and will not override any existing objects in ERP. The objects consists of tables, forms and classes that will be used for setting up the integration, fetching data from ERP and for posting invoices to the ERP.
 

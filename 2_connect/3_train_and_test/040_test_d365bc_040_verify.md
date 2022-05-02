@@ -1,12 +1,3 @@
----
-path: "/erp/4_d365bc/5_finalization"
-title: "Finalizing the BC integration setup"
-section: "D365 Business Central"
-module: "ERP Integration"
-next: "/erp/5_nav/0_mig_server"
-tags: ["d365bc"]
----
-
 ## Finalization checklist
 The final step of the integration configuration is a checklist to ensure that all step have been performed.
 

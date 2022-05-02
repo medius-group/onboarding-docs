@@ -1,11 +1,3 @@
----
-path: "/erp/1_sap/3_hcm_installation"
-title: "Install Microsoft HCM"
-section: "SAP"
-module: "ERP Integration"
-next: "/erp/1_sap/4_cig_configuration"
-tags: ["sap"]
----
 ## Install Microsoft HCM
 Please follow the installation guide below to install the Microsoft Hybrid Connection Manager. The purpose of this component is to create a secure channel so the calls from the central integration infrastructure can be made in the local network without the need to open up the ERP instance for public access.
 

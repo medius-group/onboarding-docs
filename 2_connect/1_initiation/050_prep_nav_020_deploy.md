@@ -1,12 +1,3 @@
----
-path: "/erp/5_nav/1_deploy_connector"
-title: "Deploy Connector in NAV"
-section: "NAV"
-module: "ERP Integration"
-next: "/erp/5_nav/2_parameter_settings"
-tags: ["nav"]
----
-
 For integration with Microsoft Dynamics NAV, Medius has a package of objects to be installed in NAV. The objects are stand-alone objects and will not override any existing objects in ERP. The objects consists of tables, forms/pages, codeunits and menu suite. These objects will be used for setting up the integration, fetching masterdata from NAV and for posting invoices to NAV.
 
 For NAV 2009 to 2015 the objects are packaged in a txt-file and for NAV 2016 and later they are delivered as extensions in a NAVX-file.

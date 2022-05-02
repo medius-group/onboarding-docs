@@ -1,11 +1,3 @@
----
-path: "/api/1_fx/6_last"
-title: "FX last"
-section: "Medius FX API"
-module: "ERP Integration"
-next: "/api/2_rest/0_first"
-tags: ["api_fx"]
----
 ## Finalization checklist
 The final step of the integration is a checklist to ensure that all step have been performed.
 

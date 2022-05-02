@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/1_1_company_structure_sap"
-title: "Setting up SAP company structure"
-section: "Company setup and config"
-module: "AP Automation"
-next: "/mediusflow/erp-related/1_2_posting_and_financial_related_sap"
-tags: ["sap"]
----
 The very first step to get going with Medius AP Automation is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure

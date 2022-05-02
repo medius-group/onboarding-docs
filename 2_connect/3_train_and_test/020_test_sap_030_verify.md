@@ -1,12 +1,3 @@
----
-path: "/erp/1_sap/6_finalization"
-title: "Finalize the setup"
-section: "SAP"
-module: "ERP Integration"
-next: "/erp/2_ax2012/0_technical_requirements"
-tags: ["sap"]
----
-
 ## Finalization Checklist
 The final step of the integration configuration is a checklist to ensure that all step have been performed.
 

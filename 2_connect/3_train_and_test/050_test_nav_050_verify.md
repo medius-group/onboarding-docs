@@ -1,11 +1,3 @@
----
-path: "/erp/5_nav/6_finalization"
-title: "Finalizing NAV connector setup"
-section: "NAV"
-module: "ERP Integration"
-next: "/erp/6_m3/0_mig_server"
-tags: ["nav"]
----
 After performing all the steps, all that is left is to start the MIG services that are created during the deployment process. There are two processes created, one for Masterdata and one for Invoice Postings. 
 
 This allows you to activate them separately if you, for example, would like to investigate some master data issue by running the MIG transfer manually without stopping the postings.

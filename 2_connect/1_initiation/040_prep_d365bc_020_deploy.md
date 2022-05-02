@@ -1,11 +1,3 @@
----
-path: "/erp/4_d365bc/1_deploy_connector"
-title: "Deploy the connector in Business Central"
-section: "D365 Business Central"
-module: "ERP Integration"
-next: "/erp/4_d365bc/1b_hcm_installation"
-tags: ["d365bc"]
----
 For integration with D365BC, Medius need an extension to be installed for each D365BC Instance to be connected. The Extension will only add stand-alone objects, no existing objects will be replaced. Timestamp fields will be added to some master data tables using TableExtension (not interfering with existing standard objects). The extension code will be used for setting up the integration, fetching data from D365BC and for posting invoices to the ERP.
 
 ## For D365BC OnPremise

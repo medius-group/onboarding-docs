@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/4_1_company_structure_nav"
-title: "Setting up NAV company  structure"
-section: "Company setup and config"
-module: "AP Automation"
-next: "/mediusflow/erp-related/4_2_posting_and_financial_related_nav"
-tags: ["nav"]
----
 The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure
