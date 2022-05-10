@@ -1,5 +1,6 @@
 **Below is a high level overview of the onboarding model that will be adopted for your implementation of Medius APA.**
-<Figure 1>
+
+-- Figure 1
 
 _Phase 1: Initiation_
 The focus of the initiation phase will be to hold a kick off meeting between project teams and then gather the necessary data required to start the deployment of integrations towards Medius. The Medius project team will then do an initial configuration of the QA (test) environment and integration towards your ERP, based on best practice and initial findings from the onboarding questionnaire.
