@@ -2,7 +2,7 @@ A key part of the project initiation is to define the governance structure of th
 
 This will include:
 •	**Project Sponsor **– Main responsible, counterpart for Medius Project Owner on STC level.
-•	**Project Manager** – Main contact for Medius Project Manager, managing all work to be conducted by <Customer Name> resources, sub-contractors etc.
+•	**Project Manager** – Main contact for Medius Project Manager, managing all work to be conducted by customer resources, sub-contractors etc.
 •	**Solution Owner** – SPOC for design, responsible for collecting requirements from all business, IT etc. and agreeing with Medius on design/scope.
 •	**Super/Key User(s)** – Bringing expertise and supporting the client Solution Owner in design and validation activities.
 •	**ERP Specialist** – SPOC for ERP-related questions on access, design, deployments etc. Can be one contact person per ERP system (if multiple). Usually an external resource.
