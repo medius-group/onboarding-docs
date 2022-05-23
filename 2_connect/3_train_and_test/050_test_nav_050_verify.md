@@ -4,4 +4,3 @@ This allows you to activate them separately if you, for example, would like to i
 
 When the services are started they will make sure that both master data and postings are transferred regularly according to the configured schedule.
 
-Good work! Now you have earned yourself a coffee!
