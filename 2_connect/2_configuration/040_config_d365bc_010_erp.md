@@ -4,4 +4,4 @@ Before integration can be run, Medius has a parameter card in D365BC. This needs
 [//]: # (TODO: Currently parametercard is described in the deploymentguide on success)
 Settings on parameter card: 
 
-[D365BC MediusFlow Parameter Settings](https://success.mediusflow.com/documentation/cts-documentation/Cloud-Connectors/D365BC/D365BC_technical/D365BC_deploymentguide/)
+[D365BC Medius Parameter Settings](https://success.mediusflow.com/documentation/cts-documentation/Cloud-Connectors/D365BC/D365BC_technical/D365BC_deploymentguide/)

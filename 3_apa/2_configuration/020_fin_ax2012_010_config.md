@@ -27,7 +27,7 @@ In a newly created tenant the dimension configuration looks like this:
 7. Alternatively use a BR-API for setting voucher text. [IntegrationMessage - Add supplier name to Ftx1 on Invoice.CustomField_Text1 and coding.customfield_text1 (AX best practice)](https://medius.atlassian.net/wiki/spaces/MC/pages/82777546/Frequently+used+API+based+BRs).
 
 ## Customfields to activate
-[Customfields used in MediusFlow](https://medius.atlassian.net/wiki/spaces/MFP/pages/82780692/AX+Custom+Fields+Used
+[Customfields used in Medius](https://medius.atlassian.net/wiki/spaces/MFP/pages/82780692/AX+Custom+Fields+Used
 
 ## TaxItemGroup
 After master data is imported, set default tax item group in TaxIndicator2 if solution is using Tax.

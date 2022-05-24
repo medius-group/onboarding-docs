@@ -39,7 +39,7 @@ The next section will contain more information based on your integration.
 
 ## Tax settings
 
-MediusFlow allows for a range of Tax related settings. This is highly dependant on ERP and regional practises. The standard configuration in XI is to utilize tax indicator in line level, so these needs to be turned off.
+Medius allows for a range of Tax related settings. This is highly dependant on ERP and regional practises. The standard configuration in XI is to utilize tax indicator in line level, so these needs to be turned off.
 
 1. Go to: **Administration > Company > [Virtual Company for ERP] > Enterprise > Tax**.
 2. Find the **Tax handling type** label.
@@ -59,7 +59,7 @@ For information on best practices related to periods, see [Good practices in per
 
 ## Custom fields
 
-In some cases you might need to use additional fields that are not handled by MediusFlow by default. To configure them, follow the instructions on the [Enterprise page on the Success Portal](https://success.mediusflow.com/documentation/administration_guide/administration_pages/company/enterprise/#supplier-invoice-head-custom-fields).
+In some cases you might need to use additional fields that are not handled by Medius by default. To configure them, follow the instructions on the [Enterprise page on the Success Portal](https://success.mediusflow.com/documentation/administration_guide/administration_pages/company/enterprise/#supplier-invoice-head-custom-fields).
 
 ## Maximum number of characters in invoice number
 

@@ -1,4 +1,4 @@
-The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to MediusFlow should typically reflect your organization's legal entities and company codes in your ERP.
+The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure
 It's important to setup a good company structure that reflects not only your legal entities but also reflects how the legal entities are organized.
