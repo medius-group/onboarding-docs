@@ -6,7 +6,7 @@ Dimensions are configured in the [Company configuration](https://cloud.mediusflo
 
 The coding dimensions in Medius should reflect the G/L and account assignment structure that you are using in SAP. In Medius, the order of account assignments is determined by the number of the dimensions used. The Medius SAP connector have some fixed dimension numbers but most of them are flexible as shown in the list below.
 
-Below you find a list of dimensions available in Medius for SAP, please determine which ones are relevant to you. More information about the use of these in Medius can be found here: [SAP Master data](https://success.mediusflow.com/documentation/cts-documentation/sap/SAP_solution/SAP_masterdata/)
+Below you find a list of dimensions available in Medius for SAP, please determine which ones are relevant to you. More information about the use of these in Medius can be found here: [SAP Master data](https://success.medius.com/documentation/cts-documentation/Cloud-Connectors/sap/SAP_solution/SAP_masterdata/)
 
 - G/L Account (Dimension 1)
 - Cost center (Dimension 2)
