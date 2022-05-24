@@ -8,4 +8,4 @@ This will include:
 *	**ERP Specialist** – SPOC for ERP-related questions on access, design, deployments etc. Can be one contact person per ERP system (if multiple). Usually an external resource.
 *	**IT Infrastructure** – SPOC for IT/infrastructure-related questions – e.g. access, installations etc.
 
-In addition, it is important to know at the start of the project who will be responsible for, for example, budgetary changes and signing off the system. 
+In addition, it is important to know at the start of the project who will be responsible for, for example, budgetary changes and signing off the system.
