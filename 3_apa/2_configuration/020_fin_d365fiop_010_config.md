@@ -24,10 +24,6 @@ In a newly created tenant the dimension configuration looks like this:
 4. Enter a short version of the label in the **Short name** column. This name will be displayed in the coding field itself.
 5. Enable *Free text dimension 1* with appropriate name to allow for G/L text entry. Set the maximum length to **60** since this is maximum number of characters acccepted by D365FO. 
 6. Click **Save**.
-7. If wanted use a BR-API for setting voucher text. https://medius.atlassian.net/wiki/spaces/MC/pages/82777546/Frequently+used+API+based+BRs. (IntegrationMessage - Add supplier name to Ftx1 on Invoice.CustomField_Text1 and coding.customfield_text1 (AX best practice)
-
-## Customfields to activate
-[Customfields used in MediusFlow](https://medius.atlassian.net/wiki/spaces/MFP/pages/82780692/AX+Custom+Fields+Used)
 
 ## TaxItemGroup
 After master data is imported, set default tax item group in TaxIndicator2 if solution is using Tax.
