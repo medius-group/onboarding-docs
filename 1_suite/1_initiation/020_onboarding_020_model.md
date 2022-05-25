@@ -1,6 +1,6 @@
 **Below is a high level overview of the onboarding model that will be adopted for your implementation of Medius APA.**
 
-Figure 1
+![](../../images/MediusOnboardingModel_1.png)
 
 **_Phase 1: Initiation_**
 
@@ -36,3 +36,5 @@ Once UAT is compete and you are happy with the system, you will sign off the sol
 Once approved, we will take a copy of the QA system and move it to production tenant, removing any test documents such as invoices and purchase orders. This means that any configuration made in QA does not need to be copied over manually. Production integrations are then set-up, and the system is deemed ready to go live.
 
 From there we will then support you through a hypercare period, which will span 2-3 weeks depending on requirements. Here you will have increased focus from the Medius project team so that we can resolve any issues that arrive as quickly as possible.
+
+![](../../images/MediusOnboardingModel_2.png)
