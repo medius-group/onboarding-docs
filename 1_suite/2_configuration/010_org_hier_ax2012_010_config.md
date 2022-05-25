@@ -1,4 +1,4 @@
-The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to MediusFlow should typically reflect your organization's legal entities and company codes in your ERP.
+The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure
 It's important to setup a good company structure that reflects not only your legal entities but also reflects how the legal entities are organized.
@@ -32,15 +32,15 @@ This should be extended in accordance with your company structure design.
 4. Choose **Root company** in the field *Parent company name*.
 5. Switch the value of *Is Virtual* to **Yes**.
 6. Choose the currency code that applies to the majority of companies within this company group as *Accounting currency*.
-7. In the field *Company Id*, enter a company id according to the following format: "Company_Root" where **Company** is the name of your organization, e.g. "Virtual_Medius_Root".
+7. In the field *Company Id*, enter a company id according to the following format: "Company_Root" where **Company** is the name of your organization, e.g. "V_Medius_Root".
 8. Add *External System Id* according to the following format: "company[Company_Root]" where **Company** inside of brackets is the name of your organization, e.g. "company[Medius_Root]".
 9. Navigate to the tab **Enterprise** and further to the tab **General**  and set the field *ERP Id* to "DYNAMICSAX"
 10. Click **Save**.
 
 ![](../../images/AddVirtualCompany.png)
 
-### Add your companies
-Now add the company codes of your organisation by repeating the below steps for each company code.
+### Create the rest of the companies
+Add the rest of the companies that are provided from the customer. If many companies are to be added you may consider to have another virtual level, i.e. country based for different settings in different countries. Note that it's not recommended to add these levels after the leaf companies have been created. Please take some time to evaluate the possibility of companies added in the future to create a good initial company structure.
 
 1. Click **Add**.
 2. In the field *Name*, fill in the name of the company.
