@@ -1,12 +1,12 @@
 Below is a typical project plan for a first time implementation of Medius APA towards D365 F&O. This is based on best practice, and a more detailed plan can be agreed between project management teams following the workshops where scope complexity will be better defined.
 
-Image of project plan
+![](../../images/Onboarding_Approach_Project_Overview.png)
 
 The initial target for project duration will be 12 weeks, but typically several things can impact this duration for a Medius APA project.
-*	Findings from the workshop lead to customisations in the integration or development requirements.
-*	Delays in testing.
-*	Splitting the go-live into several staggered roll-outs.
-*	Ongoing ERP activities, such as a parallel ERP roll-out.
+* Findings from the workshop lead to customisations in the integration or development requirements.
+* Delays in testing.
+* Splitting the go-live into several staggered roll-outs.
+* Ongoing ERP activities, such as a parallel ERP roll-out.
 
 Typically the first two weeks of the project will focus on data collection through the onboarding questionnaire and the functional workshop. From this point the QA system will be set up based on your requirements in order to start training and UAT.
 

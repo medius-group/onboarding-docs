@@ -1,8 +1,9 @@
 The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
 
 ## Set the Company structure
-It's important to setup a good company structure that reflects not only your legal entities, but also reflects how the legal entities are organized.
-Best practise guidelines for establishing the company structure is found on the Medius Success Portal here: [Company structure design guidelines](https://success.mediusflow.com/documentation/administration_guide/administration_pages/configuration_tutorials/company_structure/)
+
+It's important to setup a good company structure that reflects not only your legal entities but also reflects how the legal entities are organized.
+Best practice guidelines for establishing the company structure is found on the Medius Success Portal here: [Company structure design guidelines](https://success.mediusflow.com/documentation/administration_guide/administration_pages/configuration_tutorials/company_structure/)
 
 If you have many legal entities or a complex organization structure it is recommended to consult your implementation partner to build the organizational structure in Medius.
 
