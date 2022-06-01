@@ -15,6 +15,6 @@ All fields that are active at tenant level can be utilized in a company context.
 Determines whether all tenant fields or a subset of fields are relevant for this particular company code
 ### Active - enabled by default
 Fields that are active and enabled by default will be active and captured for new suppliers. Use this setting for fields that are expected to be active for a majority of your suppliers.
-### Active - disbaled by default
+### Active - disabled by default
 Fields that are active and disabled by default will not be active for new suppliers. You have to enable the field at supplier level to make it available for capture. Use this setting for fields that are expected to be active for just a few of your suppliers.
 
