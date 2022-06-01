@@ -50,7 +50,7 @@ Add the rest of the companies that are provided from the customer. If many compa
 3. Enter any value into the field *Organization Number* - this field is technically required but is not utilized.
 4. Choose your recently added virtual company node, i.e. V_Medius_Root, in the field *Parent company name*.
 5. Check that the value of *Is Virtual* is **No**.
-6. Choose the accounting currency for this specific company in field *Accounting currency*.
+6. Choose the accounting currency for this specific company in field *Accounting currency*. The chosen currency should be the same as the accounting currency in the ERP system.
 7. In the field *Company Id*, enter the company id that represents this specific company in your ERP, i.e. CRONUS AB.
 8. Add *External System Id* according to the following format: "company[Company Id]" where Company Id inside of brackets is the same value as recently entered in field *Company Id*.
 9. Click **Save**
