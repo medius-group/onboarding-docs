@@ -25,5 +25,11 @@ In a newly created tenant the dimension configuration looks like this:
 5. Enable *Free text dimension 1* with appropriate name to allow for G/L text entry. Set the maximum length to **60** since this is maximum number of characters acccepted by D365FO. 
 6. Click **Save**.
 
-## TaxItemGroup
+## Tax settings
+### Activate two tax indicators
+To use Two Tax Indicator, make sure it is activated under Administration -> Company -> Enterprise -> Tax. Both the "Use two Tax Indicators" and the "Tax on coding lines" needs to be checked for the AX2012 integration.
+
+![](../../images/D365FO_two_tax_indicators.png)
+
+### TaxItemGroup
 After master data is imported, set default tax item group in TaxIndicator2 if solution is using Tax.
