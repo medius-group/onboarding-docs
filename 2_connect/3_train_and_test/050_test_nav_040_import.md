@@ -1,12 +1,3 @@
----
-path: "/erp/5_nav/5_master_data"
-title: "Transfer initial master data"
-section: "NAV"
-module: "ERP Integration"
-next: "/erp/5_nav/6_finalization"
-tags: ["nav"]
----
-
 ## Initial master data transfer
 When all is configured it's time to transfer the master data for the first time. There are functions to preview the data in MIG before performing the full transfer. Because of dependencies between the master data entities it is required that the first run is done manually in a controlled way.
 

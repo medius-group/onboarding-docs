@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/5_2_posting_and_financial_related_d365bc"
-title: "Posting and financial related settings"
-section: "Business Central related settings"
-module: "AP Automation"
-next: "/mediusflow/application-related/1_basic_flow_configuration"
-tags: ["d365bc"]
----
 ## Tax
 ### Activate two tax indicators
 

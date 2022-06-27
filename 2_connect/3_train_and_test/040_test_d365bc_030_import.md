@@ -1,12 +1,3 @@
----
-path: "/erp/4_d365bc/4_master_data"
-title: "Transfer initial master data"
-section: "D365 Business Central"
-module: "ERP Integration"
-next: "/erp/4_d365bc/5_finalization"
-tags: ["d365bc"]
----
-
 ## Initial master data transfer
 When all is configured it's time to transfer the master data for the first time. There are functions to preview the data in CIG before performing the full transfer. After the first initial load has been initiated it will be run on schedule.
 

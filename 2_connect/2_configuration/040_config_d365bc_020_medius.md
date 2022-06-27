@@ -1,12 +1,3 @@
----
-path: "/erp/4_d365bc/3_cig_config"
-title: "Integration portal configuration"
-section: "D365 Business Central"
-module: "ERP Integration"
-next: "/erp/4_d365bc/4_master_data"
-tags: ["d365bc"]
----
-
 ## Integration Portal Configuration
 In order to complete the connection setup, it is necessary to configure the integration in the integration portal. Please follow the following steps with your Medius integration partner.
 

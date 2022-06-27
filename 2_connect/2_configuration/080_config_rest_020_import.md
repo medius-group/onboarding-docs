@@ -1,11 +1,3 @@
----
-path: "/api/2_rest/4_masterdata"
-title: "Master data import"
-section: "Medius REST API"
-module: "ERP Integration"
-next: "/api/2_rest/5_posting_related"
-tags: ["api_rest"]
----
 ## Master data import
 When authentication is in place, it’s time to start with Master data import.
 

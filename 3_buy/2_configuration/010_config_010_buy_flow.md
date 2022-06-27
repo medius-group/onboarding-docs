@@ -1,11 +1,3 @@
----
-path: "/mediusflow/application-related/4_procurement_flow_configuration"
-title: "Medius Buy application workflow settings"
-section: "Application settings"
-module: "AP Automation"
-next: "/mediusflow/application-related/5_contract_flow_configuration"
-tags: ["procurement"]
----
 This section covers the application, Medius Buy settings that needs to be configured based upon your organization's structure and processes. 
 We recommend this is done in cooperation with your implementation partner that can guide you through this process.
 

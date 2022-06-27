@@ -1,11 +1,3 @@
----
-path: "/mediusflow/erp-related/2_2_posting_and_financial_related_ax"
-title: "Posting and financial related settings"
-section: "AX related settings"
-module: "AP Automation"
-next: "/mediusflow/erp-related/3_1_company_structure_d365fiop"
-tags: ["ax2012"]
----
 ## Dimensions
 
 The coding dimensions in Medius should reflect the G/L and dimension setup you are using in AX. In Medius, the order of dimensions is determined by the number of the dimensions used.
@@ -35,7 +27,13 @@ In a newly created tenant the dimension configuration looks like this:
 7. Alternatively use a BR-API for setting voucher text. [IntegrationMessage - Add supplier name to Ftx1 on Invoice.CustomField_Text1 and coding.customfield_text1 (AX best practice)](https://medius.atlassian.net/wiki/spaces/MC/pages/82777546/Frequently+used+API+based+BRs).
 
 ## Customfields to activate
-[Customfields used in MediusFlow](https://medius.atlassian.net/wiki/spaces/MFP/pages/82780692/AX+Custom+Fields+Used
+[Customfields used in Medius](https://medius.atlassian.net/wiki/spaces/MFP/pages/82780692/AX+Custom+Fields+Used
 
-## TaxItemGroup
+## Tax settings
+### Activate two tax indicators
+To use Two Tax Indicator, make sure it is activated under Administration -> Company -> Enterprise -> Tax. Both the "Use two Tax Indicators" and the "Tax on coding lines" needs to be checked for the AX2012 integration.
+
+![](../../images/D365FO_two_tax_indicators.png)
+
+### TaxItemGroup
 After master data is imported, set default tax item group in TaxIndicator2 if solution is using Tax.

@@ -1,11 +1,3 @@
----
-path: "/api/2_rest/2_testtools"
-title: "Test tools"
-section: "Medius REST API"
-module: "ERP Integration"
-next: "/api/2_rest/3_client_authentication"
-tags: ["api_rest"]
----
 Before getting into details, have a look at the test tools that are available. This is often useful tools to understand how the API's would like to receive the information.
 
 1. [Test portal](https://cloud.mediusflow.com/$TenantNameQA/api/documentation/)

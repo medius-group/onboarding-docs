@@ -1,0 +1,1 @@
+Handover the system to production users. During the initial few weeks of the BAU it might be a good idea to monitor the usage and adaptation statistics and when needed re-train end users and conduct minor system tweaks.

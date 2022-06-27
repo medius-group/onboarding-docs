@@ -1,11 +1,3 @@
----
-path: "/mediusflow/application-related/3_match_flow_configuration"
-title: "Match application workflow settings"
-section: "Application settings"
-module: "AP Automation"
-next: "/mediusflow/application-related/4_procurement_flow_configuration"
-tags: ["match"]
----
 This section covers the match invoice application settings that needs to be configured based upon your organization's structure and processes. 
 We recommend this is done in cooperation with your implementation partner that can guide you through this process.
 

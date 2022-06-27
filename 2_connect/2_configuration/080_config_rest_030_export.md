@@ -1,11 +1,3 @@
----
-path: "/api/2_rest/5_posting_related"
-title: "Posting to ERP"
-section: "Medius REST API"
-module: "ERP Integration"
-next: "/api/2_rest/6_finalization"
-tags: ["api_rest"]
----
 ## Posting to ERP
 When it comes to postings and where to start it depends on the scope. I.e. do you need a preliminary posting or only a final posting. Is it only Expense invoice or also Purchase order invoices, Contract based invoices, check requests etc. 
 

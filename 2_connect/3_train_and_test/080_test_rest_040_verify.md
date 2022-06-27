@@ -1,11 +1,3 @@
----
-path: "/api/2_rest/6_finalization"
-title: "Finalization"
-section: "Medius REST API"
-module: "ERP Integration"
-next: "/capture/company-setup/setup-company-structure"
-tags: ["api_rest"]
----
 ## Finalization checklist
 The final step of the integration is a checklist to ensure that all step have been performed.
 

@@ -1,0 +1,1 @@
+Superusers are the target audience for the training session. It is important that superusers are engaged in every funcitonality required by the customer, understand the reasons for certain configurations and can transfer this knowledge down to end users. 

@@ -1,12 +1,3 @@
----
-path: "/erp/6_m3/0_mig_server"
-title: "Server for MIG deployment"
-section: "M3"
-module: "ERP Integration"
-next: "/erp/6_m3/1_deploy_connector"
-tags: ["m3"]
----
-
 Medius M3 integration is built upon Medius' integration platform Medius Integration Gateway(MIG). This product needs to be deployed to your network with acessibility to your M3 system.
 
 To get started see the initial requirements here:

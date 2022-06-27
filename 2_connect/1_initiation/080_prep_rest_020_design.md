@@ -1,11 +1,3 @@
----
-path: "/api/2_rest/1_design"
-title: "Integration design"
-section: "Medius REST API"
-module: "ERP Integration"
-next: "/api/2_rest/2_testtools"
-tags: ["api_rest"]
----
 Since you have chosen to use Medius REST API, you have the possibility to set-up an integration that works in the way you want and take advantage of all features Medius AP Automation has to offer.
 
 To be able to get through this process, there need to be a cooperation between your Medius AP Automation solution contact for guidance and your integration and AP resources. Building an integration requires Medius AP Automation knowledge to be able to make decisions regarding Master data and how postings to ERP should behave.

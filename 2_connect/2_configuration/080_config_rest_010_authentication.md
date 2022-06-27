@@ -1,11 +1,3 @@
----
-path: "/api/2_rest/3_client_authentication"
-title: "Client set-up"
-section: "Medius REST API"
-module: "ERP Integration"
-next: "/api/2_rest/4_masterdata"
-tags: ["api_rest"]
----
 ## Client set-up
 
 First thing is to set up a Client in Medius AP Automation to be able to authenticate towards Medius AP Automation.

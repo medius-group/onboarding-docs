@@ -1,11 +1,3 @@
----
-path: "/userimport/user-auth-introduction"
-title: "How to get the user into MediusFlow"
-section: "User import introduction"
-module: "User Import"
-next: "/erp/1_sap/1_technical_requirements"
-tags: []
----
 Each person within the organization that will do work within Medius, needs a user. The users spans between account payable users to users that seldom approves invoices.
 There exists a few options for how to do this, the recommended way is to try to use one of the standard services for this to avoid manual maintenance of users within Medius.
 [Medius Service](https://cloud.mediusflow.com/$TenantNameQA)
