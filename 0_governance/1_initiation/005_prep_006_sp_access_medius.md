@@ -1,5 +1,5 @@
 
 ---
-## Content to be described.
+## Add Medius consultants
 
-Content for this sub-task is not yet available.
+If not known and added when the site was created, add Medius PM as site owner and other consultants to the site.
