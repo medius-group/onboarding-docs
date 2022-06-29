@@ -1,4 +1,4 @@
-Link to documents on project Sharepoint site from Customer Space tab.
+Link to documents on project Sharepoint site from the Account Settings tab.
 
 For each document, do the following:
 

@@ -7,4 +7,4 @@ Mandatory documents for all projects:
 * 103-ConfigurationQuestionnaire - the document should then be configured for the project scope
 
 Optional documents, depending on scope and methodology:
-* <no documents yet identified - to be updated>
+* No documents yet identified - to be updated
