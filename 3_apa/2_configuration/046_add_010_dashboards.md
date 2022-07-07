@@ -1,10 +1,10 @@
-## Note
+## **Note**
 
 >When creating Dashboards, the account you are logged on with will be the owner of those dashboards. This means that other users, even if they have access to them, will not be able to make any changes to them. They will not be able to add or remove gadgets, nor to change the settings of an existing gadget. This is a good thing, as it prevents someone from making changes without realizing that they are affecting everyone else.
 
 >It is important to create the Dashboard in the appropriate order. In what order the dashboards are created will determine in what order the tabs ar lined up, and it can be very frustrating to have the most commonly used Dashboard being the second tab as the application always will return to the first tab. The order of the tab cannot be changed without deleting the dashboards and re-creating them in the correct order. You want to get this right from the start.
 
-## How to create a dashboard
+## **How to create a dashboard**
 
 1. Click on the Dashboard icon 
 ![](../../images/Dashboard_icon.png)
@@ -14,7 +14,7 @@
 4. Click Add gadget
 5. Select the gadget to add. Here you can read about [all available gadgets](https://success.mediusflow.com/documentation/administration_guide/administration_pages/gadget/)
 
-## Best practise
+## **Best practise**
 
 Four dashboards are normally created: 
 1. Invoice Search - Open Invoices
