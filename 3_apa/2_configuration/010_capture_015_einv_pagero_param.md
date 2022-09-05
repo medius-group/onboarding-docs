@@ -1,6 +1,6 @@
 This task is valid when 3rd party service provider Pagero sends invoices to Medius via Capture.
 
-It is also assumed that Pagero Activation order form has been filled out, sent to Pagero and then returned.
+It is also assumed that the Pagero Activation order form has been filled out, sent to Pagero and then returned.
 
 The Pagero tab in the "Request form for Medius Capture" should be updated with:
 
