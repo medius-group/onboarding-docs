@@ -23,7 +23,7 @@ Use the credentials to create a token for authentication and then:
 
 1. Use the MasterDataExport collection
 2. GET ALL Companies
-3. Find the globalId for the clinet company
+3. Find the globalId for the client company
 ---
 
 
