@@ -1,6 +1,6 @@
-To be able to filter out e-Invoices in reports, invoice sources and formats must be added. This is done under EDI Document Mapper and Document Source Management.
+To be able to filter out e-Invoices in reports, invoice sources and formats must be added. 
 
-The first configuration is located under EDI Document Mapper.
+This is done under EDI Document Mapper.
 
 ![](../../images/einv_apa_setup_5.png)
 
