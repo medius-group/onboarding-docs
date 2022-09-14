@@ -1,4 +1,4 @@
-Below is a typical project plan for a first time implementation of Medius APA towards D365 F&O. This is based on best practice, and a more detailed plan can be agreed between project management teams following the workshops where scope complexity will be better defined.
+Below is a typical project plan for a first time implementation of Medius APA towards your ERP. This is based on best practice, and a more detailed plan can be agreed between project management teams following the workshops where scope complexity will be better defined.
 
 ![](../../images/Onboarding_Approach_Project_Overview.png)
 
