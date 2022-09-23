@@ -7,6 +7,7 @@ Go to Administration --> Integration Message Settings, [PRELIMINARY - Expense in
 3.	Click the **Save** button
 
 You should have a screen that looks something like this:
+
 ![](../../images/integration_msg.png)
 
 
