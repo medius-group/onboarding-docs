@@ -2,7 +2,7 @@ If your organization uses external authentication (ADFS, OneLogin, etc.) it does
 
 That is, we do not want the users to be greeted by a screen that looks like this:
 
-![](../../images/login_admin.png)
+![](../../images/login_screen_options.png)
  
 To turn off the option for "Medius authentication", follow the steps below.
 
@@ -14,6 +14,6 @@ Go to Administration --> Login Option.
 
 You should have a screen that looks something like this:
  
-![](../../images/login_screen_options.png)
+![](../../images/login_admin.png)
  
 To log in with a local Medius account you will need to use a URL that looks like this, https://cloud.Medius.com/[tenant name]/LocalAccount/, moving forward.
