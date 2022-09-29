@@ -1,6 +1,4 @@
-The very first step to get going with Medius is to add your organization(s) to the Medius company structure. The companies added to Medius should typically reflect your organization's legal entities and company codes in your ERP.
-
-## Set the Company structure
+## Introduction
 It's important to setup a good company structure that reflects not only your legal entities but also reflects how the legal entities are organized.
 Best practice guidelines for establishing the company structure is found on the Medius Success Portal here: [Company structure design guidelines](https://success.mediusflow.com/documentation/administration_guide/administration_pages/configuration_tutorials/company_structure/)
 
@@ -11,16 +9,6 @@ When adding companies you have to fill in the accounting currency of each compan
 
 The company configuration holds a lot of details and provides many possibilities. In this step we'll only add the basics. Detailed company configuration will be covered in other sections.
 Guidance to all company configuration options in Medius can be found in this Success Portal section: [Success portal company configuration](https://success.mediusflow.com/documentation/administration_guide/administration_pages/company/)
-
-### If currency code is missing
-If any accounting currency code used by your legal entities is missing you need to add it manually before creating the companies. This is done by following below steps.
-[Add currency codes here](https://cloud.mediusflow.com/$TenantNameQA/#/Administration/Medius.Core.Entities.Currency)
-
-1. Click **Add**.
-2. Enter currency ISO code (or currency code as found in ERP) in both *Currency* and *External System ID* fields.
-3. Click **Save**.
-
-![](../../images/AddCurrencyCode.png)
 
 ### Add a virtual company node
 The virtual company structure can be used to setup a scalable company model where master data and configuration is shared depending on needs. Below is the minimum level of virtual structure required in a D365BC context. 

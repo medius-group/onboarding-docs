@@ -1,5 +1,3 @@
-Review and adjust the default settings for what columns that should be available in the inbox. Exactly what columns to enable can vary from client to client, but this is a good place to start.
-
 Go to Administration --> Folder --> [My tasks] --> Editor for column configuration.
 
 Filter the Type column on "OrderBasedInvoice"  and make sure the following check boxes are marked, and no other:
@@ -13,5 +11,5 @@ Filter the Type column on "OrderBasedInvoice"  and make sure the following check
 7. Due date
 8. Invoice date
 
-Then click the Save button.
+Then click the **Save** button.
 
