@@ -10,3 +10,7 @@ Go to Administration --> Currency rate and click the **Add** button.
 6.	Set the External System ID to: [Company External System ID];[Currency].
 7.	Set the Currency rate to: 1
 8.	Click the **Save** button
+
+You should now have an entry that looks something like this:
+
+![](../../images/currency_rates.png)

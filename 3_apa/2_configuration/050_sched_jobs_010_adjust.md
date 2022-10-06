@@ -1,4 +1,4 @@
-There are primarily three jobs to adjust at this stage, but you will need to revisit this page around go live to set the email related jobs. The jobs to look at now are:
+There are primarily three jobs to adjust at this stage, but you will need to revisit again after go live to set the email related jobs. These jobs are:
 
 1.	DelegatedTaskAssignment
     * This job goes through the Temporary Delegation settings for all users and make sure that invoices that qualify for delegation show up in the inbox of the delegatee.
@@ -10,6 +10,9 @@ There are primarily three jobs to adjust at this stage, but you will need to rev
 Go to Administration --> Scheduled Job Configuration
 
 1.	Filter the list of scheduled jobs for the job you are looking for by typing in the field at the top of the Name column
+
+![](../../images/sched_jobsco.png)
+
 2.	Make sure that the End date field for the selected job is set to a date far in the future
     * The job will be considered "scheduled" between the specified Start date and End date
 3.	Set the Repeat time for the listed jobs, below are suggested values (format: dd:hh:mm:ss, but the dd: part can be omitted)

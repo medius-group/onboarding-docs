@@ -1,7 +1,8 @@
-Information about Roles and how they can be modified can be found here: 
-https://success.Medius.com/documentation/administration_guide/administration_pages/role/
+We normally want to allow members of the Orderbased Analyzer and Orderbased AP roles to reroute deviations to other users. 
 
-We normally want to allow members of the Orderbased Analyzer and Orderbased AP roles to reroute deviations to other users.
+More information about the Roles and how they can be modified can be found [here]:(https://success.Medius.com/documentation/administration_guide/administration_pages/role/)
+
+It is important to remember that it is safe to add access keys to a role, it will not risk being removed in an upgrade, but that if you want to remove access keys you are better off creating a new Role altogether.
 
 See below regarding the rerouting of deviations.
 

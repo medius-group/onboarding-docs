@@ -1,4 +1,4 @@
-Require a comment before invalidating an invoice.
+To require a comment before invalidating an invoice:
 
 Go to Administration --> Validator Configuration
 
