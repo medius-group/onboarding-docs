@@ -9,3 +9,7 @@ This will include:
 *	**IT Infrastructure** – SPOC for IT/infrastructure-related questions – e.g. access, installations etc.
 
 In addition, it is important to know at the start of the project who will be responsible for, for example, budgetary changes and signing off the system.
+
+#### Roles and Responsibility document
+
+Please read and fill out required fields in the Roles and Responsilibities document (linked in Account Settings tab). This document outlines the project arena, specifies roles and responsibilities, contacts, objectives and governance. The document is to be reviewed by Medius and client project managers before put in baseline version.Please read and fill out required fields in the Roles and Responsilibities document (linked in Account Settings tab). This document outlines the project arena, specifies roles and responsibilities, contacts, objectives and governance. The document is to be reviewed by Medius and client project managers before put in baseline version.

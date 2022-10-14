@@ -1,4 +1,2 @@
-## Content to be described.
-
-Content for this sub-task is not yet available.
+Are all tasks on platform completed so the project can be closed?
 
