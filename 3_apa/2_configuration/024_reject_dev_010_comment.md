@@ -7,7 +7,7 @@ Go to Administration --> Company --> [Virtual Company for ERP] --> Order-based--
 
 1.	Click the checkbox under the Comment is required on rejected deviations header labelled "Inherited from Root company". The label should change to "Defined in selected company".
 2.	Set the toggle to: Yes
-3.	Click the **Yes**  button
+3.	Click the **Save**  button
 
 You should now have a screen that look something like this:
 ![Comment on rejected deviations](../../images/ForceCommentsOnRejectedDeviations.png)

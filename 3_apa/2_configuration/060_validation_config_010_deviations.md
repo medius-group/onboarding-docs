@@ -1,4 +1,6 @@
-Make sure that unhandled deviations stay in Analyze.
+There are some validations we almost always want activated by default. 
+
+To make sure that unhandled deviations stay in Analyze:
 
 Go to Administration --> Validator Configuration
 

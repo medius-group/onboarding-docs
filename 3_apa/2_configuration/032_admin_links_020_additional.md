@@ -11,10 +11,6 @@ Make sure that these entries are active (some will already be active by default)
 If your organization will be relying on local authentication, activate:
 * Password Management
 
-> **NOTE:** Make sure that the following entries are NOT ACTIVE:
->* Document Management
->   * From here an invoice can be DELETED, without an audit trail
-
 As an example, below are instructions for how to activate the Business Log Reports and assign them to the Admin and Auditor roles.
 
 Go to Administration --> Administration Additional link
