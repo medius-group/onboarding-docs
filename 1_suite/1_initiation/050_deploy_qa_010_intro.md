@@ -1,6 +1,6 @@
 ## Conditions
 
-Your QA environment/tenant will exist in MS Azure. The actual deployment is triggered in the next sub-task.
+Your QA environment/tenant will exist in Microsoft Azure. The actual deployment is triggered in the next sub-task.
 
 Before doing so you should consider how it should be named. The name you select will be a part of the URL (web address) and it will not be changed once deployed.
 
