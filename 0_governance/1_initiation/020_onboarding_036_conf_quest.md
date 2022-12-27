@@ -4,10 +4,10 @@ The Configuration questionnaire is a excel based document that is made up of sev
 
 **APA Proc. & Data:** This is information related to how your organisation is structured and handles invoice workflows.
 
-**Azure AD:** This tab relates to user import and authentication. Additional information on the user import alternatives can be found in the following section: xxx.
+**Azure AD:** This tab relates to user import and authentication. Additional information on the user import alternatives can be found in the following link: https://success.medius.com/documentation/administration_guide/user_login_and_transfer/
 
-**D365FO Related Processes & Data:** Data related to masterdata and integration configuration towards D365FO.
+**ERP Related Processes & Data:** Data related to masterdata and integration configuration towards your ERP.
 
-**D365FO Technical details:** Technical information required to start the D365 F&O integration activities. 
+**ERP Technical details:** Technical information required to start the integration activities towards your ERP. 
 
-The final two tabs relating to D365 are considered the most critical in order to meet initial project timelines and should be completed as a priority.
+The final two tabs relating to the ERP are considered the most critical in order to meet initial project timelines and should be completed as a priority.
