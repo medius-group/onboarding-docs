@@ -6,4 +6,4 @@ As part of the project, Medius will issue to you a set of standard test scripts 
 
 Further details can be seen in the following graphic:
 
-![](../../images/050_test_process_010_intro.png)
+![](../../images/Intro_test_process.png)
