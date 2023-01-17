@@ -5,3 +5,5 @@ It is therefore recommended that the UAT and development of test scripts are con
 As part of the project, Medius will issue to you a set of standard test scripts that give scenarios which will enable you to become familiar with the system and test the standard worksflow. But it is critical that any specific business related scenarios identified in the workshop that might be outside of this standard Medius workflow are documented and added to these standard test cases. 
 
 Further details can be seen in the following graphic:
+
+![](../../images/Intro_test_process.png)
