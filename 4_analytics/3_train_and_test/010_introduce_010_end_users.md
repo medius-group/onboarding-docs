@@ -1,3 +1,5 @@
+Before any hand over of Analytics is done to a customer, it is recommended that you give an introduction to future Analytics users.
+
 Recommended content to provide to users:
 - Navigate in Analytics and how to use dashboards and gadgets. 
 - Understanding the data that is shown in gadgets. 

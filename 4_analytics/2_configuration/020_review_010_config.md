@@ -1,3 +1,5 @@
+To get optimal user experience and usage out of Analytics, it is recommended to verify systems set up for a few areas.
+
 ## Document Source Management
 
 Needs to be mapped to each source to avoid showing any Unknown values: [Document source](https://success.medius.com/documentation/administration_guide/administration_pages/document_source_management/#gatsby-focus-wrapper). 
