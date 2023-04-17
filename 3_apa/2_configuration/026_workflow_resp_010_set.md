@@ -1,6 +1,6 @@
 In Medius AP Automation you can assign users or roles to be responsible for different steps of the process. 
 These settings determine what users, or group of users, are responsible to perform certain tasks e.g. 
-"Who is responsible for distributing an expense invoice that has not been automatically distributed?"
+"Who is responsible for routing a non-PO invoice that has not been automatically routed?"
 
 The best practice is to assign roles instead of individual users. This will enable shared workload as well as easier if 
 there are changes within your organization.
@@ -14,7 +14,7 @@ The only settings we normally change for more or less all clients is the respons
 
 *Go to Administration --> Company --> [Virtual Company for ERP] --> Order-based --> Responsible*
 
-1.	Click all the "Inherited from Root company" check boxes in the "Deviations" and "Exception Types" sections, changing them to "Defined in selected company"
+1.	Click all the "Inherited from Root company" check boxes in the "Deviations" and "Additional charge" sections, changing them to "Defined in selected company"
 2.	Change all of the fields from "Orderbased Analyzer" to "Orderbased AP" in these sections
 3.	Click the **Save**  button
 

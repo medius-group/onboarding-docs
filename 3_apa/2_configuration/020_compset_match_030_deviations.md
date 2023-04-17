@@ -29,7 +29,7 @@ First, set up the rules for coding deviations that are within tolerance.
 11.	Pick the "Same as cost" option
 12. Click the "Create" button
 
-Repeat these steps for all the options in the Type of Deviation screen, except "Exception type deviation" (there is no "within tolerance" option for this type):
+Repeat these steps for all the options in the Type of Deviation screen, except "Additional charge deviation" (there is no "within tolerance" option for this type):
 * Head total amount deviation
 * Line total amount deviation
 * Unit price deviation
@@ -68,6 +68,6 @@ Repeat these steps for all the options in the Type of Deviation screen:
 * Line total amount deviation
 * Unit price deviation
 * Quantity deviation
-* Exception type deviation
+* Additional charge deviation
 
-Approved deviations of the "Exception type deviation" should more or less always be coded "Same as Cost".
+Approved deviations of the "Additional charge deviation" should more or less always be coded "Same as Cost".
