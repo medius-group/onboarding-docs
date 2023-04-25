@@ -11,6 +11,8 @@ This will include:
 
 ![](../../images/Customer_project_roles.png)
 
+![](../../images/MediusOnboardingModel_1.png)
+
 
 ## Roles and Responsibility document
 

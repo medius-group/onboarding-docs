@@ -4,7 +4,7 @@ To be able to get through this process, there need to be a cooperation between y
 
 Depending on your scope, what modules that will be used in Medius AP Automation, the approach to the integration can differ. 
 
-* If you only have Expense invoices, the amount of transaction heavy master data imports are probably limited. But if you have lots of Purchase orders the master data transactions can be quite frequent. 
+* If you only have non-PO invoices, the amount of transaction heavy master data imports are probably limited. But if you have lots of Purchase orders the master data transactions can be quite frequent. 
 * When building the integration, try to think about how the invoice should be posted in the ERP in the end. That will often tell you what type of master data that would be needed, how frequent master data needs to be exchanged, what information that would be of interest in the posting message. 
 * Consider how your ERP works, sometimes information could be fetched at invoice posting directly from ERP instead of the need for master data import and then fetch it again in ERP posting.
 

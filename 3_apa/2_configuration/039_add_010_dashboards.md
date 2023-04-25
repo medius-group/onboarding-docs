@@ -39,7 +39,7 @@ Same as "Invoice Search - Open Invoices" except that the filter should be set to
 Create a new Dashboard with three columns and add these gadgets:
 - Supplier invoice statuses
 - Bottleneck
-- Match analysis for order based invoices
+- Match analysis for PO invoices
 - Deviations
 ![](../../images/AP_dashboard.png)
 
