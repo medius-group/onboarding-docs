@@ -4,11 +4,11 @@ There are four features available.
 
 ### Order summary
 
-Displays suite edition, applications and sub-modules in scope (purchased).
+Displays suite edition, applications and add-ons (sub-modules) in scope (purchased).
 
 ### Contact list 
 
-When deployment tasks are completed, emails are sent to contacts with the "Receive notification" flag set to Yes. Primary contacts also receive credentials where applicable. 
+When activation tasks are completed, emails are sent to contacts with the "Receive notification" flag set to Yes. Primary contacts also receive credentials where applicable. 
 
 There could only be one primary contact for customer and implementation partner respectively.  
 
@@ -18,4 +18,4 @@ Add links to any site.
 
 ### Customer Logo
 
-Upload and display a logotype on the onboarding portal home page.
+Upload and display a logotype on the Onboarding Portal home page.
