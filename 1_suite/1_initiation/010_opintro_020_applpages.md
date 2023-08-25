@@ -4,6 +4,9 @@ Application pages display activation status by add-on/sub module (if there are a
 * Inactive
 * Activated in test
 * Activated in production
+And:
+* Not subscribed (add-on is not included in the subscription)
+* Managed by implementation partner (activation from the Onboarding Portal is currently not supported)
 
 ### Actions
 

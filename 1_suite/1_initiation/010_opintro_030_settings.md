@@ -4,7 +4,7 @@ There are four features available.
 
 ### Order summary
 
-Displays suite edition, applications and add-ons (sub-modules) in scope (purchased).
+Displays suite edition, applications and add-ons (sub-modules) in scope (subscription exists).
 
 ### Contact list 
 
