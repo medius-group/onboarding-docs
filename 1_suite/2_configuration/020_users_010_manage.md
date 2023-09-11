@@ -1,5 +1,5 @@
-Each person within the organization that will do work within Medius, needs a user. The users spans between account payable users to users that seldom approves invoices.
-There exists a few options for how to do this, the recommended way is to try to use one of the standard services for this to avoid manual maintenance of users within Medius.
+Each person within the organization that will do work within Medius, needs a user. The users span between account payable users to users that seldom approves invoices.
+A few options exist for how to do this. The recommended way is to use one of the standard services to avoid manual maintenance of users within Medius.
 
 
 ## Office 365(Azure AD)
@@ -22,7 +22,7 @@ To be able to authenticate the users, a local ADFS server must be in place at wi
 
 ## Custom user transfer
 
-In rare cases the standard user transfers is not enough, e.g. where a company wants to streamline the onboarding of new users even more. When this is the case, the REST API for Medius can be used.
+In rare cases the standard user transfer is not enough, e.g. when a company wants to streamline the onboarding of new users even more. If this is the case, the REST API for Medius can be used.
 
 The documentation for the REST API can be found at the [success portal](https://success.mediusflow.com/documentation/integration-documentation/getting_started/rest/)
 
