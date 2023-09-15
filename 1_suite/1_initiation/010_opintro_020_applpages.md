@@ -9,6 +9,9 @@ And:
 * Not subscribed (add-on is not included in the subscription)
 * Managed by implementation partner (activation from the Onboarding Portal is currently not supported)
 
+![](../../images/Productpage_2.png)
+![](../../images/Productpage.png)
+
 ### Actions
 
 Activation tasks are displayed as tiles. A task is either:
