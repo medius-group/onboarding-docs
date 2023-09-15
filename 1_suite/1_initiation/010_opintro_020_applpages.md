@@ -1,15 +1,14 @@
 ### Activation status
 
 Application pages display activation status by add-on/sub module (if there are any). Statuses are:
-* Inactive
-* Activated in test
-* Activated in production
+* Waiting to be activated
+* Activate in Test
+* Activate in Production
   
 And:
 * Not subscribed (add-on is not included in the subscription)
 * Managed by implementation partner (activation from the Onboarding Portal is currently not supported)
 
-![](../../images/Productpage_2.png)
 ![](../../images/Productpage.png)
 
 ### Actions
