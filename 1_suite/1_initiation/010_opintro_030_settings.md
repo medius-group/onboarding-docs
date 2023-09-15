@@ -1,4 +1,5 @@
-Onboarding portal Settings can be accessed from the cogwheel icon found to the right in the top application bar.   ![](../../images/Cogwheelicon.png)
+Onboarding portal Settings can be accessed from the cogwheel icon found to the right in the top application bar.   
+![](../../images/Cogwheelicon.png)
 
 There are four features available.
 
