@@ -29,3 +29,5 @@ Emails will be sent to contacts defined via Onboarding Portal settings once a ta
 ### Information
 
 For some applications you can also access additional information from the application pages. 
+
+![](../../images/Productpage_2.png)
