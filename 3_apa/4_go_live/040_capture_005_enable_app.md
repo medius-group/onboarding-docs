@@ -1,3 +1,6 @@
+> # NOTE: this step is no longer required! Client applications will be activated automatically when Capture is deployed and activated.
+> ## Instead continue to next step for activating Capture in Production. 
+
 Make sure the Capture application is enabled:
 
 1. Go to Admin Pages > Client Application.
