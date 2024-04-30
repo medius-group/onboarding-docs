@@ -4,4 +4,4 @@ AP Automation streamlines the process for Non-PO invoices, which are invoices th
 
 The workflow begins with the receipt of the invoice, which is then captured and digitized by the AP Automation system. The system extracts the necessary data and validates it for accuracy. The invoice is then routed for approval based on predefined rules. Once approved, the invoice is ready for payment.
 
-<VideoPlayer url={https://fast.wistia.net/embed/iframe/ub3zkjfil1}/>
+<VideoPlayer url={"https://fast.wistia.net/embed/iframe/ub3zkjfil1"}/>
