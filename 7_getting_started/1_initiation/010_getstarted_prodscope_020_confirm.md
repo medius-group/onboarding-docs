@@ -1,9 +1,8 @@
-Please review the application scope. It will be used to set up your Test Cloud.
+Please confirm your understanding of which Medius modules are included in your subscription. 
 
 <OrderSummary />
 <br/>
 
-In case of any discrepancies, doubts or questions, please contact your implementation partner!
+In the case of queries relating to this, please contact your Medius commercial contact. Selected modules will be available in your tenant application. 
 
-Otherwise, press the Confirm button.
 <TaskConfirmation task={"GettingStarted_ConfirmSubscription"}/>
