@@ -8,6 +8,6 @@ Medius intends to review all responses provided and if any contentious questions
 
 Medius accepts that some configuration options indicated in this document may require a review during testing and that some of the additional setups can only be completed once some sample data is provided. 
 
-Medius will provide additional templates if required after the initial configuration review. 
+Medius will provide additional templates if required after the initial configuration review.
 
 <LinkLibrary linkKey="QUESTIONNAIRE" about="the Configuration Questionnaire" />
