@@ -10,4 +10,4 @@ Medius accepts that some configuration options indicated in this document may re
 
 Medius will provide additional templates if required after the initial configuration review. 
 
-<LinkLibrary linkKey="QUESTIONNAIRE" about="the Getting Started Questionnaire" />
+<LinkLibrary linkKey="QUESTIONNAIRE" about="the Configuration Questionnaire" />
