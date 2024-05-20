@@ -1,6 +1,6 @@
 ### Welcome to Medius onboarding!
 
-Welcome to the Medius onboarding. Here you, the customer, can embark on a journey to the successful delivery of your Medius solutions. 
+Here you, the customer, can embark on a journey to the successful delivery of your Medius solutions. 
 
 In the preparation phase, you can learn about medius modules, understand the needs that the process encapsulated in each module has and plan internal engagement with business stakeholders which will provide a view of the business needs.   
 
