@@ -1,10 +1,7 @@
-### Confirmation
-
-
 ![](../../images/Completed_task.png)
 
 
-#### Technical details
+### Technical details
 
 > Please confirm that the Medius configuration questionnaire has all the technical details necessary to establish a connection to your finance system.
 >
@@ -14,7 +11,7 @@
 >
 > Please ensure that all technical details are correct to avoid delays! 
 
-#### Functional details
+### Functional details
 
 Please confirm that the Medius configuration questionnaire related to the functional business and workflow needs has all sections complete to your best knowledge and that Medius Professional Services should be engaged with the review of content and arrange the next steps. 
 
