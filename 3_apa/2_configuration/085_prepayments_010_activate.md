@@ -2,6 +2,6 @@ The Prepayment module streamlines your financial operations by allowing prepayme
 
 It reduces manual interventions and mitigates risk of double payments.
 
-Click <a href="https://success.medius.com/documentation/user_guide/prepayment_invoice/"target="_blank">here</a> to learn more about Prepayments.
+Click <a href="https://success.medius.com/documentation/user_guide/prepayment_invoice/" target="_blank">here</a> to learn more about Prepayments.
 
 <ActivateModule deploymentTask="Activate_Prepayments_in_Test"/>
