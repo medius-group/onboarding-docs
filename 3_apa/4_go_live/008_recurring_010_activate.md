@@ -1,6 +1,5 @@
+Handle invoices that are received on a regular basis, such as monthly rent or annual subscriptions.
 
----
-## Content to be described.
+Create contracts and match invoices with corresponding contracts to ensure accuracy.
 
-Content for this sub-task is not yet available.
-
+Click <a href="https://success.medius.com/documentation/user_guide/supplier_contract/" target="_blank">here</a> to learn more about Recurring Invoices.
