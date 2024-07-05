@@ -1,3 +1,0 @@
-**More information can be found here:** [D365FO Master data](https://success.mediusflow.com/documentation/cts-documentation/Cloud-Connectors/D365FO/D365FO_solution/D365FO_masterdata/ "D365FO Masterdata")
-
-[//]: # (Note: The D365FO_masterdata file is currently in develop branch for CTS success documentation and about to a pull request to Kamil. So it is a dead link right now but will be live in a few weeks time)

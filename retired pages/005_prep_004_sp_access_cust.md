@@ -1,1 +1,0 @@
-Follow the guides and wizard available at https://medius.atlassian.net/wiki/spaces/MC/pages/82777992/Share+a+folder+with+customer

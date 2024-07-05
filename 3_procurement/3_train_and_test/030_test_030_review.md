@@ -1,1 +1,0 @@
-Once the first round of testing has beenc complete, it is a good practice to review the outcome, plan any configuration re-work, and focus next phase of testing on the incomplete test scenarios.

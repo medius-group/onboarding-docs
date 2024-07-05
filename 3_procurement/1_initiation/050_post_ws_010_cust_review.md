@@ -1,1 +1,0 @@
-Organise and conduct the review meeting, including a detailed overview of the Requirements catalogue format and explanation of expectation. 
