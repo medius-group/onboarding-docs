@@ -2,4 +2,4 @@ Connect and collaborate with your suppliers, providing an easy and secure way fo
 
 Click <a href="https://success.medius.com/documentation/supplier-portal/" target="_blank">here</a> to learn more about the Supplier Portal.
 
-<ActivateModule deploymentTask="Activate_SP_in_Test"/>
+<ActivateModule deploymentTask="Activate_SupplierPortal_in_Test"/>
