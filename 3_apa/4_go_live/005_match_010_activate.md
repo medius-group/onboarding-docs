@@ -4,4 +4,4 @@ This streamlines the accounts payable process, reduces manual work, and minimize
 
 Click <a href="https://success.medius.com/documentation/user_guide/po_invoice/" target="_blank">here</a> to learn more about PO Invoices.
 
-<ActivateModule deploymentTask="Activate_MATCH_in_PROD"/>
+<ActivateModule deploymentTask="Activate_Match_in_Production"/>
