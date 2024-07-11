@@ -1,1 +1,0 @@
-Gather requirements and map out configuration options where appropriate. 

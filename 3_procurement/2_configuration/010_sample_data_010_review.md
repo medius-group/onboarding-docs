@@ -1,1 +1,0 @@
-Review sample data against the exisiting master data prior to load. For example document validation rules may call a dimension value which has not been integrated into Medius. Likewise, a supplier catalogue can be for a supplier which does not exist in Medius as it was not integrated as Masterdata.

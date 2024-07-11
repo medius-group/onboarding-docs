@@ -1,1 +1,0 @@
-Sample date may include internal catalogues, follow up groups, authorisation groups, document validation rules, procurement permission groups etc.

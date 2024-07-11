@@ -1,1 +1,0 @@
-Create workshop slide deck from the project template.

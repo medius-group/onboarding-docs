@@ -1,1 +1,0 @@
-Review and familiarise yourself with the pre workshop discussion topics.

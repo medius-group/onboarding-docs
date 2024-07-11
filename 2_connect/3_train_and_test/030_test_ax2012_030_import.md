@@ -1,1 +1,0 @@
-**More information can be found here:** [Master data information](https://success.mediusflow.com/documentation/cts-documentation/On-Premise-Connectors/AX/AX_solution/AX_masterdata/)

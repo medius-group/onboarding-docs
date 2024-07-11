@@ -1,1 +1,0 @@
-End user training should focus on the PR creation process, approvals flow and post approval processes (conformation, post control, receipting). It is important to hihglight the reasons for certain configuration. Future system administrators should also be present in this training. 

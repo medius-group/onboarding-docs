@@ -1,1 +1,0 @@
-Smoke test should consider that any transaction created are potentially going to reach the real suppliers, therfore it may be ideal to prepare upfront some basing transactions that are expected to reach out suppliers and use those as test cases.  

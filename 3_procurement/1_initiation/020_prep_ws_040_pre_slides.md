@@ -1,1 +1,0 @@
-Issue pre workshop discussion topics slide deck from the standard PS documentation directory.
