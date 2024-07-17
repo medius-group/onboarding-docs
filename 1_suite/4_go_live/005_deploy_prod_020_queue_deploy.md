@@ -1,1 +1,1 @@
-<ActivateModule deploymentTask="Deploy_Production_Tenant"/>
+<DeploymentQueueModules deploymentTask="Deploy_Production_Tenant"/>
