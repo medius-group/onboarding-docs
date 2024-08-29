@@ -1,6 +1,6 @@
 ### Start using Analytics
 
-The first step is to request activation. This process is usually completed within 24 hours. 
+The first step is to request activation. This process is usually completed within 48 hours. 
 
 Once it has been successfully activated, you are just one step away from starting to use it.  
 
