@@ -1,8 +1,11 @@
 ### Start using Analytics
 
-The first step is to request activation. This process is usually completed within 48 hours. 
+The first step involves requesting activation. When you do this, two things occur in the background:
 
-Once it has been successfully activated, you are just one step away from starting to use it.  
+1. Analytics is activated at the suite level, a process that happens almost instantly, enabling the application of Analytics roles.
+2. The service is technically deployed and data is uploaded, a process typically completed within 48 hours.
+
+Once successful activation has been achieved, you are just one step away from beginning to use the service.
 
 Your user admin should apply the role “Analytics Application Access Role” to the users that should have access to Analytics. The access is restricted to a limited number of users according to your Agreement with Medius.
  
