@@ -5,5 +5,3 @@ It also includes fraud prevention functionality, providing a set of tools to com
 Click [here](https://success.medius.com/documentation/user_guide/fraud_and_risk_detection/) to learn more about Fraud & Risk Detection.
 
 Please note that to get full access to features, you must also activate Analytics, as the Fraud & Risk Fire Station is integrated within Analytics.
-
-test
