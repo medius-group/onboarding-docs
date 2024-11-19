@@ -1,5 +1,9 @@
 > It is recommended that you carry out this task with the assistance of your implementation partner.
 
+## Custom bot email address
+
+You cannot set up Supplier Conversations using your shared mailbox, as it's beyond Medius's control. Instead, a new email address will be created for your tenant, which by default will be in the format: tenantname@agent.medius.com.
+
 ## Shared Mailbox Email Address 
 
 You typically use a shared mailbox for supplier queries, such as finance@yourcompany.com or accountspayable@yourcompany.com.
