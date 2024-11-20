@@ -24,12 +24,4 @@ This email address is required so that Supplier Conversations can escalate any q
 
 ## Enable Auto Forwarding (Optional)
 
-Instead of manually communicating a new email address to all your suppliers, we recommend setting up an auto-forwarding rule to ensure emails are forwarded to the bot for processing and response. The steps to follow can be found here: *Email redirection settings*
-
-## Email Branding Preferences
-
-To ensure the email aligns with your branding, Supplier Conversations allows customizations. 
-* **Email Sign-off**: The friendly text used to close the email, such as "Thanks," "Regards," or "Cheers."
-* **AI Assistant Name**: The name displayed at the bottom of the email and in the sender field, such as "AP Team," "Finance Team," or "Invoice Enquiries Team."
-* **Additional Text**: Any extra text to include in the email footer, which will appear above the disclaimer.
-* **Logo**: The logo you want to use in the email footer.
+Instead of manually communicating a new email address to all your suppliers, we recommend setting up an auto-forwarding rule to ensure emails are forwarded to the bot for processing and response. The steps to follow can be found here: *Email redirection settings success portal*
