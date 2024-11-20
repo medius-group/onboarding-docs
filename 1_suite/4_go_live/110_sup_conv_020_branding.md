@@ -8,4 +8,4 @@ To ensure the email aligns with your branding, Supplier Conversations allows cus
 * **Additional Text**: Any extra text to include in the email footer, which will appear above the disclaimer.
 * **Logo**: The logo you want to use in the email footer.
 
-* 
+![](../../images/sc_email_branding)
