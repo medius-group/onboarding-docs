@@ -1,5 +1,5 @@
 Supplier Conversations, your AI assistant for suppliers, answers vendor questions right in their inbox.
 
-Click [here](https://success.medius.com/documentation/user_guide/supplier_conversations/) to learn more.
+Click <a href="https://success.medius.com/documentation/user_guide/supplier_conversations/" target="_blank">here</a> to learn more.
 
-<JiraActivation deploymentTask="Activate_Supplier_Conversations_in_Production" />
+<ActivateModule deploymentTask="Activate_Supplier_Conversations_in_Production" />
