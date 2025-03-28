@@ -3,10 +3,10 @@
 Receiving the OP URL:
 *	The OP URL is emailed to the customer’s primary contact.
 
-Access Before Test/QA Tenant Creation:
+Access Before Test (QA) Tenant Creation:
 *	Access the OP using the provided URL without any additional authentication.
 
-Access After Test Tenant Creation:
+Access After Test (QA) Tenant Creation:
 *	Authentication is required to ensure that only authorized personnel can make deployments.
 *	Without logging in, you can view product status and complete Getting Started tasks for new customers.
 *	To activate products, you must log in. Use the login button on the landing page if you are not already logged into the suite.
