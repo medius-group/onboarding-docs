@@ -1,8 +1,20 @@
-Please note that:
-* Once the test tenant has been created, users will be required to authenticate to access the Onboarding Portal. 
-* The Onboarding Portal shares authentication mechanism with the Medius suite and any user with the Admin role can access the OP. 
-* An onboarding admin user account is set up by default upon test tenant creation and credentials for the account are sent to primary contacts (as defined in Onboarding Portal settings).
-* When the production tenant exists, you will need to authenticate against production instead of test in order to enable any remaining deployment activities for production.
+Access to the Onboarding Portal after Test Tenant Creation:
+* Authentication is required for deployments.
+* Without logging in, you can view product status and complete Getting Started tasks.
+* Log in to activate products using the button on the landing page.
+* Once logged in, product activations are enabled.
 
+Shared Authentication:
+* The OP uses the same authentication system as the Medius suite.
+* Logging into the suite also logs you into the OP.
+
+Admin Role Required:
+* Only Admin role users can log in to the OP.
+
+Default Admin Account:
+* A default admin account is created with the QA tenant.
+* Credentials are sent to the primary contact as specified in the OP settings.
+* This account provides access to the suite, including the OP.
+  
 
 ![](../../images/Login.png)
