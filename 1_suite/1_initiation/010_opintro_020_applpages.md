@@ -1,4 +1,6 @@
-## Activation Status
+## Application pages
+
+### Activation Status
 
 Application pages display activation status by add-on or sub-module (if applicable). The statuses include:
 
@@ -13,7 +15,7 @@ Additionally:
 
 ![Product Page](../../images/Productpage.png)
 
-## Actions
+### Actions
 
 Activation tasks are displayed as tiles. A task can be:
 
@@ -30,7 +32,7 @@ There are two categories of tasks:
 
 Emails will be sent to contacts defined via Onboarding Portal settings once a task is completed. The status will also be reflected on the task tile and on the home page.
 
-## Additional Information
+### Additional Information
 
 For some applications, you can also access additional information, such as product introduction videos.
 
