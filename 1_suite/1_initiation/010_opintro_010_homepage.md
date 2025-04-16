@@ -1,7 +1,14 @@
-The home page displays applications and add-ons including the platform itself and suite-level services. Also applications not included in the subscription are displayed.
+## Home Page Overview
 
-When hovering over application components, their individual activation status will be displayed. Clicking on a tile will take you to the detailed application page.
+The home page displays applications and add-ons, including the platform itself and suite-level services. You'll also see applications that are not part of your current subscription.
 
-The home page also alerts when there are outstanding activation tasks ready to execute. These tasks can be executed from the detailed application page.
+### Interactive Features
+
+- *Hover* over application components to view their individual activation status.
+- *Click* on a tile to go to the application's detailed page.
+
+### Notifications
+
+The home page alerts you to any outstanding activation tasks that are ready to be executed. You can complete these tasks from the detailed application page.
 
 ![](../../images/Homepage.png)
