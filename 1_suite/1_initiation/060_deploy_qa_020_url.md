@@ -1,8 +1,6 @@
-## Important Instructions for Naming Your Tenant
+## Instructions for Naming Your Tenant: Follow these guidelines to prevent future issues.
 
 A Tenant is your dedicated space within our cloud-based system, where your company's data and applications are hosted. It is uniquely identified by the name you choose, which will be part of your system's URLs.
-
-**Please ensure you follow these guidelines to avoid any issues later.**
 
 1. **Naming for URLs**: The name you choose will be part of the URLs for both Test and Production Tenants. Note that Production will be activated at a later stage.
 
