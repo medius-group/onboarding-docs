@@ -3,7 +3,6 @@
 ### Authentication and Access
 
 - **Authentication Required**: To deploy products, you must be authenticated. Without logging in, you can still view product status and complete "Getting Started" tasks.
-
 - **Logging In**: Use the login button on the landing page to activate products. Once logged in, product activations are enabled.
 
 ### Shared Authentication
@@ -17,5 +16,4 @@
 ### Default Admin Account
 
 - **Account Creation**: A default admin account is automatically created with the QA tenant. Credentials for this account are sent to the primary contact specified in the OP settings.
-
 - **Access Provided**: This default admin account grants access to the entire suite, including the OP.
