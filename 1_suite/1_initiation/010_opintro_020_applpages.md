@@ -1,33 +1,39 @@
-### Activation status
+## Application pages
 
-Application pages display activation status by add-on/sub module (if there are any). Statuses are:
-* Waiting to be activated
-* Activate in Test
-* Activate in Production
-  
-And:
-* Not subscribed (add-on is not included in the subscription)
-* Managed by implementation partner (activation from the Onboarding Portal is currently not supported)
+### Activation Status
 
-![](../../images/Productpage.png)
+Application pages display activation status by add-on or sub-module (if applicable). The statuses include:
+
+- **Waiting to be activated**
+- **Activate in Test**
+- **Activate in Production**
+
+Additionally:
+
+- **Not subscribed** (add-on is not included in the subscription)
+- **Managed by implementation partner** (activation from the Onboarding Portal is currently not supported)
+
+![Product Page](../../images/Productpage.png)
 
 ### Actions
 
-Activation tasks are displayed as tiles. A task is either:
-* Pending on another task to be completed first
-* Available for start
-* Completed 
+Activation tasks are displayed as tiles. A task can be:
 
-When starting an activation task, a new pop-up window will appear taking you through activation step by step (or in a single step) with instructions for completing the task.
+- **Pending** on another task to be completed first
+- **Available** for start, with a recommendation on how to proceed, either via self-service or assisted by the implementation partner
+- **Completed**
 
-There are two categories:
-1. Automated = will be executed in near real-time
-2. Semi-automated = request made to be picked up and processed manually
+When starting an activation task, a new pop-up window will guide you through the activation process, either step-by-step or in a single step, with instructions for completing the task.
 
-Emails will be sent to contacts defined via Onboarding Portal settings once a task is completed and status will also be reflected on the task tile and on the home page.
+There are two categories of tasks:
 
-### Information
+1. **Self-Service Module Activation**: You can activate all modules yourself, but it is recommended to proceed on your own only for those labeled 'Self-Service'.
+2. **Partner-Assisted Activation**: Coordinate with your implementation partner. Their expertise will ensure these modules are set up optimally, allowing you to fully leverage their capabilities.
 
-For some applications you can also access additional information from the application pages. 
+Emails will be sent to contacts defined via Onboarding Portal settings once a task is completed. The status will also be reflected on the task tile and on the home page.
 
-![](../../images/Productpage_2.png)
+### Additional Information
+
+For some applications, you can also access additional information, such as product introduction videos.
+
+
