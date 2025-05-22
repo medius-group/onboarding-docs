@@ -5,8 +5,8 @@
 Application pages display activation status by add-on or sub-module (if applicable). The statuses include:
 
 - **Waiting to be activated**
-- **Activate in Test**
-- **Activate in Production**
+- **Active in Test**
+- **Active in Production**
 
 Additionally:
 
