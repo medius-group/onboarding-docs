@@ -30,4 +30,3 @@
 - This account can be used to access the suite, including the OP.
 
 > **Note:** Creating user profiles within the Medius tenant is typically a dedicated project activity and may require coordination with your implementation partner. Please consult with your implementation partner before creating any accounts in the Medius tenant.
-Key adjustments include:
