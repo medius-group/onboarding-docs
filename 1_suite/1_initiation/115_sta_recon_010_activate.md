@@ -1,5 +1,5 @@
-Supplier Statement Reconciliation automates the extraction and comparison of supplier statement data with system records, categorizing invoices to streamline the reconciliation process and address discrepancies efficiently.
+Once you've activated Supplier Conversations, the next step is to configure the root company settings on the Supplier Conversations admin page. These settings must be updated before you can start using the feature.
 
-Click <a href="https://success.medius.com/documentation/user_guide/supplier_conversations/#statement-reconciliation" target="_blank">here</a> to learn more.
+To update email addresses, signatures, and logos, you’ll need the ManageSupplierConversations access key. This key is enabled by default for users with the admin role.
 
 <ActivateModule deploymentTask="Activate_Supplier_Reconciliation_in_Test" />
