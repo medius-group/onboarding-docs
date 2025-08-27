@@ -16,3 +16,5 @@ The [Success Portal](https://success.medius.com/documentation/analytics/) contai
 If you need assistance with the applications of roles, or introduction to the module, please register a support ticket in our [Support Portal](https://support.medius.com/support/login) and we will allocate a consultant for you.
  
 Please don’t hesitate to contact us if you have other questions or comments!
+
+<ActivateModule deploymentTask="Activate_Analytics_in_Production"/>
