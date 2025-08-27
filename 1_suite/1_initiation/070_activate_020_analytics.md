@@ -15,3 +15,5 @@ Notification emails will be sent to contacts defined via Onboarding Portal setti
 Secondly your user admin should apply the role “Analytics Application Access Role” to the users that should have access to Analytics. This can be done when activation has been requested, even if has not completed. The access is restricted to a limited number of users according to your Agreement with Medius.
  
 The [Success Portal](https://success.medius.com/documentation/analytics/) contains useful information on how to get started.
+
+<ActivateModule deploymentTask="Activate_Analytics_in_Test"/>
