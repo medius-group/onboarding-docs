@@ -2,6 +2,6 @@ Using the Payment Request functionality, you can request a payment for the speci
 
 Click <a href="https://success.medius.com/documentation/user_guide/payment_request/" target="_blank">here</a> to learn more about Medius Payment Requests.
 
-<ActivateModule deploymentTask="Activate Payment Requests in Production"/>
+<ActivateModule deploymentTask="Activate_Payment_Requests_in_Production"/>
 
 
