@@ -4,6 +4,6 @@ With this feature, open prepayments are automatically applied to incoming invoic
 
 It reduces manual interventions and mitigates risk of double payments.
 
-Click <a href="https://success.medius.com/documentation/user_guide/prepayment_invoice/" target="_blank">here</a> to learn more about Prepayments.
+Click <a href="https://success.medius.com/documentation/user_guide/prepayment_invoice/" target="_blank">here</a> to learn more about Prepayment.
 
 <ActivateModule deploymentTask="Activate_Prepayments_in_Test"/>
